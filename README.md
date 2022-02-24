@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alejandra Gutierrez
+- 👀 I’m interested in sailing and cool python projects
+- 🌱 I’m currently learning how to be happy
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me alejandra.vlerick@gmail.com
